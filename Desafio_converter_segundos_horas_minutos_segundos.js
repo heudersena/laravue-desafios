@@ -1,6 +1,7 @@
 
 
-const seconds = 108391;
+const seconds = 108000;
+
 
 function converty(seconds) {
     let h = Math.floor(seconds / 3600)
